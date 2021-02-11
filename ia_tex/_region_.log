@@ -1,0 +1,339 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=prv_main 2020.11.18)  18 NOV 2020 10:43
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**&prv_main /AUCTEXINPUT{ _region_.tex }
+(./_region_.tex (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count190
+\l__pdf_internal_box=\box49
+)
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+(/home/dg/.emacs.d/elpa/auctex-12.3.1/latex/preview.sty
+Package: preview 2017/04/24 12.3 (AUCTeX/preview-latex)
+ (/usr/share/texmf-dist/tex/generic/luatex85/luatex85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+) (/home/dg/.emacs.d/elpa/auctex-12.3.1/latex/prtightpage.def
+\PreviewBorder=\dimen167
+) (/home/dg/.emacs.d/elpa/auctex-12.3.1/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count191
+\hfuzz=\dimen168
+(/home/dg/.emacs.d/elpa/auctex-12.3.1/latex/prauctex.cfg)) (/home/dg/.emacs.d/elpa/auctex-12.3.1/latex/prfootnotes.def)
+\pr@snippet=\count192
+\pr@box=\box50
+\pr@output=\toks23
+
+Preview: Fontsize 12pt
+Preview: PDFoutput 1
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\big@size=\dimen169
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count193
+\scratchdimen=\dimen170
+\scratchbox=\box51
+\nofMPsegments=\count194
+\nofMParguments=\count195
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count196
+\MPscratchDim=\dimen171
+\MPnumerator=\count197
+\makeMPintoPDFobject=\count198
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+ (/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (/usr/share/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\c@lstlisting=\count199
+  !name(main.tex) !offset(-3) 
+./_region_.tex:77: Preview: Snippet 1 started.
+<-><->
+      
+l.77     \item I
+                f any one sensor is on then indicators ON,
+Not a real error.
+
+Preview: Tightpage -32891 -32891 32891 32891
+./_region_.tex:77: Preview: Snippet 1 ended.(530841+0x611671).
+<-><->
+      
+l.77     \item I
+                f any one sensor is on then indicators ON,
+Not a real error.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+./_region_.tex:78: Preview: Snippet 2 started.
+<-><->
+      
+l.78     \item I
+                f any two sensors on then hooters ON,
+Not a real error.
+
+./_region_.tex:78: Preview: Snippet 2 ended.(530841+0x611671).
+<-><->
+      
+l.78     \item I
+                f any two sensors on then hooters ON,
+Not a real error.
+
+[2]
+./_region_.tex:79: Preview: Snippet 3 started.
+<-><->
+      
+l.79     \item I
+                f all sensors are ON then Fire extinguisher should be ON
+Not a real error.
+
+./_region_.tex:79: Preview: Snippet 3 ended.(530841+0x611671).
+<-><->
+      
+l.79     \item I
+                f all sensors are ON then Fire extinguisher should be ON
+Not a real error.
+
+[3]
+./_region_.tex:85: Preview: Snippet 4 started.
+<-><->
+      
+l.85  \includegraphics
+                      [width=165mm, scale=0.80]{prg1.png} % Example image
+Not a real error.
+
+<prg1.png, id=13, 1238.6275pt x 550.055pt>
+File: prg1.png Graphic file (type png)
+<use prg1.png>
+Package pdftex.def Info: prg1.png  used on input line 85.
+(pdftex.def)             Requested size: 990.90337pt x 440.04459pt.
+./_region_.tex:85: Preview: Snippet 4 ended.(13663384+0x30767549).
+<-><->
+      
+l.85 ...raphics[width=165mm, scale=0.80]{prg1.png}
+                                                   % Example image
+Not a real error.
+
+[4 <./prg1.png>]
+./_region_.tex:94: Preview: Snippet 5 started.
+<-><->
+      
+l.94     \item I
+                f both switches on then machine on
+Not a real error.
+
+./_region_.tex:94: Preview: Snippet 5 ended.(530841+0x611671).
+<-><->
+      
+l.94     \item I
+                f both switches on then machine on
+Not a real error.
+
+[5]
+./_region_.tex:95: Preview: Snippet 6 started.
+<-><->
+      
+l.95     \item W
+                hen you release any switch machine off
+Not a real error.
+
+./_region_.tex:95: Preview: Snippet 6 ended.(530841+0x611671).
+<-><->
+      
+l.95     \item W
+                hen you release any switch machine off
+Not a real error.
+
+[6]
+./_region_.tex:99: Preview: Snippet 7 started.
+<-><->
+      
+l.99     \includegraphics
+                         [width=165mm, scale=0.80]{prg2.png}
+Not a real error.
+
+<prg2.png, id=25, 1242.6425pt x 246.9225pt>
+File: prg2.png Graphic file (type png)
+<use prg2.png>
+Package pdftex.def Info: prg2.png  used on input line 99.
+(pdftex.def)             Requested size: 994.11537pt x 197.53824pt.
+./_region_.tex:99: Preview: Snippet 7 ended.(6113808+0x30767870).
+<-><->
+      
+l.99 ...raphics[width=165mm, scale=0.80]{prg2.png}
+                                                  
+Not a real error.
+
+[7 <./prg2.png>]
+./_region_.tex:112: Preview: Snippet 8 started.
+<-><->
+      
+l.112     \includegraphics
+                          [width=165mm, scale=0.80]{prg3.png}
+Not a real error.
+
+<prg3.png, id=31, 1230.5975pt x 206.7725pt>
+File: prg3.png Graphic file (type png)
+<use prg3.png>
+Package pdftex.def Info: prg3.png  used on input line 112.
+(pdftex.def)             Requested size: 984.47935pt x 165.41821pt.
+./_region_.tex:112: Preview: Snippet 8 ended.(5169649+0x30766948).
+<-><->
+      
+l.112 ...aphics[width=165mm, scale=0.80]{prg3.png}
+                                                  
+Not a real error.
+
+[8 <./prg3.png>]
+./_region_.tex:124: Preview: Snippet 9 started.
+<-><->
+      
+l.124   \includegraphics
+                        [width=165mm, scale=0.80]{prg4.png}
+Not a real error.
+
+<prg4.png, id=36, 1313.90875pt x 368.37625pt>
+File: prg4.png Graphic file (type png)
+<use prg4.png>
+Package pdftex.def Info: prg4.png  used on input line 124.
+(pdftex.def)             Requested size: 1051.12845pt x 294.70139pt.
+./_region_.tex:124: Preview: Snippet 9 ended.(8625909+0x30766529).
+<-><->
+      
+l.124 ...aphics[width=165mm, scale=0.80]{prg4.png}
+                                                  
+Not a real error.
+
+[9 <./prg4.png>]
+./_region_.tex:131: Preview: Snippet 10 started.
+<-><->
+      
+l.131  {$
+         \blacksquare$}
+Not a real error.
+
+./_region_.tex:131: Preview: Snippet 10 ended.(530841+0x611671).
+<-><->
+      
+l.131  {$\blacksquare$
+                      }
+Not a real error.
+
+[10]
+./_region_.tex:133: Preview: Snippet 11 started.
+<-><->
+      
+l.133     \item f
+                 irst lubrication Pump should be On and then Motor ON
+Not a real error.
+
+./_region_.tex:133: Preview: Snippet 11 ended.(530841+0x611671).
+<-><->
+      
+l.133     \item f
+                 irst lubrication Pump should be On and then Motor ON
+Not a real error.
+
+[11]
+./_region_.tex:134: Preview: Snippet 12 started.
+<-><->
+      
+l.134     \item W
+                 hen STOP Push button is pressed Motor and Pump should be St...
+Not a real error.
+
+./_region_.tex:134: Preview: Snippet 12 ended.(530841+0x611671).
+<-><->
+      
+l.134     \item W
+                 hen STOP Push button is pressed Motor and Pump should be St...
+Not a real error.
+
+[12]  !name(main.tex) !offset(-136) )
+! Emergency stop.
+<*> &prv_main /AUCTEXINPUT{ _region_.tex }
+                                          
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 1324 strings out of 476651
+ 20930 string characters out of 5855749
+ 313705 words of memory out of 5000000
+ 21050 multiletter control sequences out of 15000+600000
+ 550187 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,9n,30p,223b,284s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
